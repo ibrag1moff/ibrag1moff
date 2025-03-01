@@ -14,7 +14,7 @@ Hello! I'm Abbas, an experienced **Fullstack developer** with expertise in **Rea
 - 👨‍💻 TypeScript, JavaScript, Python, etc...
 - ⚙️ React, Vite, Next.js
 - 👁️ Tailwind, CSS, SASS
-- 💽 Node.JS, Express.JS, MongoDB
+- 💽 Node.JS, Express.JS, MongoDB, PostreSQL, MySQL
 + a lot more :D
 
 + ## Contact
