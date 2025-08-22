@@ -18,6 +18,5 @@ Hello! I'm Abbas, an experienced **Fullstack developer** with expertise in **Rea
 + a lot more :D
 
 + ## Contact
-- [abbas-devv](https://abbas-devv.vercel.app)
 - [@ibrag1moff](https://www.linkedin.com/in/ibrag1moff/) on LinkedIN
 - [@ibrag1moff](https://www.fiverr.com/sellers/ibrag1moff/) on Fiverr
