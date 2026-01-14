@@ -4,7 +4,7 @@
 
 </div>
 
-# 🏄‍♂️ Abbas Ibragimov
+# 🚀 Abbas Ibragimov
 
 **`Software Engineer | React, Next, TypeScript`**
 
